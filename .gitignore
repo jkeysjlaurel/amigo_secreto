@@ -1,0 +1,7 @@
+amigo_chocolate.csv
+.env
+.venv
+env/
+venv/
+ENV/
+.venv/
