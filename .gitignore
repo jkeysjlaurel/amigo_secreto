@@ -1,4 +1,4 @@
-amigo_chocolate.csv
+*.csv
 .env
 .venv
 env/
